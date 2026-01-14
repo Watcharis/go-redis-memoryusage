@@ -12,13 +12,6 @@ import (
 )
 
 const (
-	// REDIS_HOST     = "master.ktb-core-bank-dcb-sit-redis.5ecofd.apse1.cache.amazonaws.com"
-	// REDIS_PORT     = "6379"
-	// REDIS_DB_0     = 0
-	// REDIS_DB_2     = 2
-	// REDIS_PASSWORD = "86558bd9-0dad-42b3-bbb5-acbfe1ba5990"
-	// REDIS_TLS      = true
-
 	REDIS_HOST     = "localhost"
 	REDIS_PORT     = "6379"
 	REDIS_DB_0     = 0
